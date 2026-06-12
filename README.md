@@ -43,6 +43,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Zapier – Ko-fi Integrations](https://zapier.com/apps/ko-fi/integrations) – Automate workflows between Ko-fi and other apps.
 - [IFTTT Ko-fi Automation](https://ifttt.com/search/query/ko-fi) – Community-made applets using Ko-fi (limited availability).
 - [Ko-fi Link Shorteners](https://ko-fi.com/links) – Create custom shortened links for your Ko-fi page.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Themes & Embeds
 
