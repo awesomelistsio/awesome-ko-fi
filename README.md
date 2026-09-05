@@ -1,4 +1,4 @@
-# Awesome Ko-Fi [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Ko-Fi [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021724789.svg)](https://doi.org/10.5281/zenodo.19680479)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -64,9 +64,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Digital Marketing](https://github.com/awesomelistsio/awesome-digital-marketing)**
-- **[Awesome Blogging Monetization](https://github.com/awesomelistsio/awesome-blogging-monetization)**
-- **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)**
+- **[Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing)**
+- **[Awesome Blogging Monetization](https://github.com/brandonhimpfen/awesome-blogging-monetization)**
+- **[Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)**
   
 ## Contribute
 
